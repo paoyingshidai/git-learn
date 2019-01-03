@@ -1,0 +1,3 @@
+[submodule "sub-git2"]
+	path = sub-git2
+	url = https://github.com/paoyingshidai/git-learn.git

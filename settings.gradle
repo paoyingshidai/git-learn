@@ -1,3 +1,4 @@
 rootProject.name = 'git-learn'
 include 'sub-git'
+include 'sub-git3'
 
